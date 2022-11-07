@@ -1,2 +1,2 @@
 # AHK_Driving
-use irrelevent software to make driving enjoyable
+irrelevent software to make driving enjoyable
